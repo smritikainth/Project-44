@@ -10,7 +10,7 @@ var branches, branchesimg;
 function preload() {
 
 //loading gem gif
-gemimg=loadAnimation("gem frames/frame0.gif","gem frames/frame1.gif","gem frames/frame2.gif","gem frames/frame3.gif","gem frames/frame4.gif","gem frames/frame5.gif","gem frames/frame6.gif","gem frames/frame7.gif");
+gemimg=loadAnimation("frame0.gif","frame1.gif","frame2.gif","frame3.gif","frame4.gif","frame5.gif","frame6.gif","frame7.gif");
 
 //loading forest image
 forestimg=loadImage("forest.jpg");
